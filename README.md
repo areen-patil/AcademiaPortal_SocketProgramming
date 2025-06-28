@@ -112,4 +112,4 @@ This project is for educational purposes.
 
 ## Author
 
-- [Your Name]
+- Areen Patil
